@@ -1,2 +1,2 @@
-# Face-rRecognition-CNN-
+# Face-Recognition-CNN-
 Face recognition project using CNN
